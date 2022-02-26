@@ -1,0 +1,4 @@
+include ':microservices:menu-item-service'
+include ':microservices:review-service'
+include ':microservices:recommendation-service'
+include ':microservices:menu-item-composite-service'
